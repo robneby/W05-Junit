@@ -24,8 +24,8 @@ public class Assert {
 	   }
 	   @Test
 	   public void testAge() {
-	      int ageA = 25;
-	      int ageB = 28;
+	      int ageA = 21;
+	      int ageB = 19;
 	      //Check if the two are not the same age.
 	      assertNotSame(ageA, ageB);
 	   }
