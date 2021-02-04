@@ -1,14 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+/** @author Rob Nebeker */
+// W05 JUNIT
+
 package junit;
 
-/**
- *
- * @author rnebeker
- */
 import java.util.Scanner;
 
 import org.junit.runner.JUnitCore;
